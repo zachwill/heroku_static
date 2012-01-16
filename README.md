@@ -1,8 +1,8 @@
 Heroku Static
 =============
 
-An example for putting static sites on Heroku, taken from [Kenneth Reitz
-blog post](http://kennethreitz.com/static-sites-on-heroku-cedar.html).
+An example for putting static sites on Heroku, taken from [Kenneth
+Reitz's blog post](http://kennethreitz.com/static-sites-on-heroku-cedar.html).
 
 
 Usage
@@ -42,5 +42,5 @@ tool:
     75.101.145.87
     174.129.212.2
 
-For more information, make sure to read the [Heroku devcenter
+For more information, make sure to read this [Heroku devcenter
 article](http://devcenter.heroku.com/articles/custom-domains).
