@@ -24,6 +24,21 @@ You can then open your new static site with the following command:
     heroku open
 
 
+Development
+-----------
+
+During development, you'll probably want to still use `localhost` when
+working on your project &mdash; rather than simply looking at the
+`index.html` file in your browser of choice. You can use Python to serve
+your content during development:
+
+    cd path/to/my/project
+    python -m SimpleHTTPServer
+
+Your project should then be up and running on:
+[`localhost:8000`](http://localhost:8000)
+
+
 Custom Domain
 -------------
 
