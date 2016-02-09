@@ -2,7 +2,7 @@ Heroku Static
 =============
 
 An example for putting static sites on Heroku, taken from [Kenneth
-Reitz's blog post](http://kennethreitz.com/static-sites-on-heroku-cedar.html).
+Reitz's blog post](http://www.kennethreitz.org/essays/static-sites-on-heroku-cedar).
 
 
 Usage
